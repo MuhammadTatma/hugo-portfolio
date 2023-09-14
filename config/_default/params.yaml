@@ -9,8 +9,8 @@ dateFormat:
   published: 'Jan 02, 2006'
   lastUpdated: 'Jan 02, 2006 15:04 MST'
 sidebar:
-  emoji: "\U0001F642"
-  subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+  emoji: "🙂"
+  subtitle: "I love explore and creating🚀 I'm a lifelong learner 🎓"
   avatar:
     enabled: true
     local: true
@@ -28,9 +28,6 @@ widgets:
       params:
         limit: 5
     - type: categories
-      params:
-        limit: 10
-    - type: tag-cloud
       params:
         limit: 10
   page:
